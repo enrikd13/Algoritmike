@@ -1,0 +1,16 @@
+{
+    "remotePath": "./",
+    "host": "enrikd13.bitnamiapp.com",
+    "username": "bitnami",
+    "password": "",
+    "port": 21,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "bitnami-hosting (1).pem",
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}

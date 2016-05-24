@@ -1,0 +1,3 @@
+	13	finished3	4.500000	0	category3
+	12	finished2	4.000000	0	category2
+	11	finished1	3.500000	0	category1

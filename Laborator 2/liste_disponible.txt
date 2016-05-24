@@ -1,0 +1,9 @@
+	10	artikull10	6.500000	2	kategori3
+	9	artikull9	6.000000	3	kategori3
+	8	artikull8	5.500000	4	kategori2
+	7	artikull7	5.000000	5	kategori1
+	4	artikull4	3.000000	8	kategori3
+	3	artikull3	2.500000	9	kategori2
+	6	artikull6	2.000000	6	kategori1
+	1	artikull1	1.500000	11	kategori1
+	5	artikull5	1.500000	7	kategori2
