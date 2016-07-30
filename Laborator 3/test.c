@@ -22,8 +22,6 @@ node* create_node(int data){
 }
 
 void buildHeap(int E[]){
-    int i ;
-    for ()
 }
 
 
